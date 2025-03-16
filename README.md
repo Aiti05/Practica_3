@@ -1,7 +1,7 @@
 ## **Practica 3: WIFI y BLUETOOTH**
 Esta práctica tiene como objetivo trabajar con WiFi y Bluetooth utilizando el microprocesador ESP32. Se creará un servidor web en la placa y, mediante una aplicación móvil y Bluetooth, se establecerá una comunicación serie.
 
-## **Practica A: generación de una pagina web:**
+## **Practica A generación de una pagina web:**
 **Codigo main.cpp para conexion IP:**
 ```
 #include <Arduino.h>
