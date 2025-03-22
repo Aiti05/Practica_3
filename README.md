@@ -205,8 +205,8 @@ A través del puerto serie, se pueden ver los datos enviados y recibidos entre l
 
 void handle_root();
 // Configuración del Access Point (AP)
-const char* ssid = "";    // Nombre de la red WiFi creada por el ESP32
-const char* password = ""; // Contraseña del AP (mínimo 8 caracteres)
+const char* ssid = "Nautilus";  // Enter your SSID here 
+const char* password = "20000Leguas";  //Enter your Password here 
 
 WebServer server(80); // Servidor web en el puerto 80
 
